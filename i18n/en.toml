@@ -1,9 +1,9 @@
 # More documentation here: https://github.com/nicksnyder/go-i18n
 [home]
-other = "Home"
+other = "home"
 
 [posts]
-other = "Posts"
+other = "posts"
 
 [resume]
 other = "My resume"
